@@ -1,0 +1,43 @@
+.direct:hover {
+  border: none;
+  color: #0d6efd;
+  background-color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.direct {
+  border: none;
+  background-color: white;
+}
+
+.description-wrapper {
+  height: 100px;
+}
+
+.description-text {
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.recipe-image {
+  width: 60vh;
+}
+
+.card-wrapper:hover {
+  transform: scale(1.01);
+}
+
+.profile-wrapper {
+  margin: auto
+}
+
+.toast_wrapper {
+  position: absolute;
+  right: 10px;
+  top: 70px;
+  z-index: 1;
+}
