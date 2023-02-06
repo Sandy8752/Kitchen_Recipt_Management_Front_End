@@ -10,7 +10,7 @@ import Reset from "./components/Auth/Reset";
 import Signup from "./components/Auth/Signup";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
-export const CLIENT_URL = "https://kitchen-recipe-management-fe.netlify.app";
+export const CLIENT_URL = "https://kitchen-recipt-management-front-end.vercel.app/";
 export const url = "https://kitchen-recipe-management-back-end.onrender.com/";
 // export const url = "http://localhost:7000";
 
